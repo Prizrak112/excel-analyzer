@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Excel Analyzer",
+            "type": "python",
+            "request": "launch",
+            "module": "src.main",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "python": "${workspaceFolder}\\venv\\Scripts\\python.exe",
+            "justMyCode": false
+        }
+    ]
+}
